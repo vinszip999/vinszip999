@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-## 🌹 t e c h 🌹
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/vinszip999)
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/vinszip999)
+## 🌹 T e c h 🌹
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/vinszip999)[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/vinszip999)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/vinszip999)
 
