@@ -1,5 +1,4 @@
-### Hi there 👋
-### Goal is Front-end developer🌷
+### Hi there 👋 Goal is Front-end developer🌷
 <!--
 **vinszip999/vinszip999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
