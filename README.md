@@ -28,5 +28,12 @@ Here are some ideas to get you started:
 
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](https://github.com/vinszip999)  [![PS](https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black)](https://github.com/vinszip999)
 
+## 🔨T o o l s🔨
+[![EclipseIDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)](https://github.com/vinszip999)
 
+[![PyCharm](https://img.shields.io/badge/PyCharm-gray?style=flat-square&logo=PyCharm&logoColor=white)](https://github.com/vinszip999)
+
+[![VisualStudio](https://img.shields.io/badge/Visual%20Studio-lightgray?style=flat-square&logo=VisualStudio&logoColor=5C2D91)](https://github.com/vinszip999)
+
+[![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)](https://github.com/vinszip999)
 
