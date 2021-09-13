@@ -53,5 +53,5 @@ fontsize : 글자 크기
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=yellow)](https://github.com/vinszip999/github-readme-stats) -->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=synthwave)
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
