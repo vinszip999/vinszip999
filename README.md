@@ -47,7 +47,8 @@ fontsize : 글자 크기
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=jolly)](https://github.com/vinszip999)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=flag-india)](https://github.com/vinszip999)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999)](https://github.com/vinszip999) 일반 기본 통계-->
 
   
