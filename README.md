@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=U%20Vin%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=U%20Vin%20Lee&fontSize=100)
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=U%20Vin%20Lee&fontSize=100) -->
 
 <div align=center>
