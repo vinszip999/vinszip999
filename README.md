@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=U%20Vin%20Lee&fontSize=100)
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=U%20Vin%20Lee&fontSize=100) -->
 
-<!-- type : wave, egg, shark, slice, rect, soft, rounded, cylinder, waving의 총 9개가 있으며, 일종의 테마라고 생각된다. 글자 뒤의 이미지를 어떤 것으로 할지 정할 수 있으며 위의 url에서 "type=slice"의 slice 부분을 다른 것으로 바꾸면 된다.
+<!-- 
+type : wave, egg, shark, slice, rect, soft, rounded, cylinder, waving의 총 9개가 있으며, 일종의 테마라고 생각된다. 글자 뒤의 이미지를 어떤 것으로 할지 정할 수 있으며 위의 url에서 "type=slice"의 slice 부분을 다른 것으로 바꾸면 된다.
 color : 이미지의 색상을 정할 수 있다. gradient로 설정하면 위 이미지처럼 그라데이션 효과를 줄 수 있으며 색깔은 새로고침할 때마다 랜덤으로 변한다.
 height : 이미지의 높이다. 이 숫자를 바꾸면 README에서 위 이미지가 얼마만큼의 높이를 차지할지를 정할 수 있다.
 section : 현재 footer로 되어 있는데 이렇게 하면 위 이미지처럼 사선 하단에 이미지가 나오고, header로 하면 사선 위에 이미지가 나온다. 어떻게 나오는지 궁금하다면 하단 이미지 참고
 text : 이미지 위에 어떤 글자를 놓을지 정하는 곳이다. 띄어쓰기를 할 거라면 "%20"을 꼭 넣어줘야 하며, 당연한 말이지만 "%20" 다음에 띄어쓰기를 하면 이미지는 적용되지 않는다.
-fontsize : 글자 크기 -->
+fontsize : 글자 크기 
+-->
 
 <div align=center>
   
