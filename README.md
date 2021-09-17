@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=U%20Vin%20Lee&fontSize=100)
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=U-Vin%20Lee&fontSize=100) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=UVin%20Lee&fontSize=100) -->
 
 <!-- 
 type : wave, egg, shark, slice, rect, soft, rounded, cylinder, waving의 총 9개가 있으며, 일종의 테마라고 생각된다. 글자 뒤의 이미지를 어떤 것으로 할지 정할 수 있으며 위의 url에서 "type=slice"의 slice 부분을 다른 것으로 바꾸면 된다.
