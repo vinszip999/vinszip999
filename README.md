@@ -52,7 +52,7 @@ fontsize : 글자 크기
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)](https://github.com/vinszip999) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)
-![Top Langs🌷](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&show_icons=true&theme=highcontrast) <!-- highcontrast nightowl buefy jolly 일반 기본 통계 -->
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&show_icons=true&theme=highcontrast) <!-- highcontrast nightowl buefy jolly 일반 기본 통계 -->
 
   
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com) -->
