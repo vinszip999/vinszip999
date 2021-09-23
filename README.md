@@ -47,9 +47,8 @@ fontsize : 글자 크기
   
 </div>
 
-
+<br>
 <div align=footer>
-  
   
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true)](https://github.com/vinszip999) 기본-->
  
