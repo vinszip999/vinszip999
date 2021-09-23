@@ -46,7 +46,7 @@ fontsize : 글자 크기
 <br>
   ## 📃 SNS 📑
 [![Docker](https://img.shields.io/badge/Docker-green?style=flat-square&logo=Docker&logoColor=#2496ED)](https://hub.docker.com/u/vinszip999)
-[![e-mail](https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://hub.docker.com/u/vinszip999)
+[![e-mail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://hub.docker.com/u/vinszip999)
 <br>
 <br>
 </div>
