@@ -59,8 +59,8 @@ fontsize : 글자 크기
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true)](https://github.com/vinszip999) 기본-->
  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)](https://github.com/vinszip999)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)  -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)](https://github.com/vinszip999) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&show_icons=true&theme=nightowl) 
