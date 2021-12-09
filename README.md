@@ -55,10 +55,10 @@ fontsize : 글자 크기
  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)  -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)](https://github.com/vinszip999) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&show_icons=true&theme=nightowl)  -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszip999&show_icons=true&theme=outrun)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&show_icons=true&theme=nightowl) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinszip999&layout=compact&theme=algolia)
  <!-- highcontrast nightowl buefy jolly 일반 기본 통계 -->
 
