@@ -36,7 +36,7 @@ fontsize : 글자 크기
 [![C](https://img.shields.io/badge/C%20Language-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;[![PS](https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=Oracle&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;
 [![DJango](https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=DJango&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://github.com/vinszip999)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/vinszip999)
 
 <!-- <img src="https://img.shields.io/badge/oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"> -->
 
