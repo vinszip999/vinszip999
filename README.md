@@ -28,7 +28,7 @@ fontsize : 글자 크기
 
 <div align=center>
   
-  ## ⚒️ Tech  Stack ⚒️
+  ## ⛏️ Tech  Stack ⛏️
   #### Techs that I've used at least once
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/vinszip999)&nbsp;&nbsp;&nbsp;
